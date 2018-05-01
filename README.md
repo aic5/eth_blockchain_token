@@ -4,10 +4,10 @@
 This repository has everything you need to create a publicly traded token on a blockchain network. No coding experience necessary. We will be using the Ethereum blockchain and resorces that exist on the cloud.
 
 Here is some basic terminology:
-..* **Ether** is the name of the cryptocurrency used in the Ethereum blockchain.
-..* **Smart contract** is the script that is executed by the blockchain network.
-..* **Solidity** is the coding language used to write smart contracts on the Ethereum blockchain.
-..* **Node** is one computer in a network.
+  * **Ether** is the name of the cryptocurrency used in the Ethereum blockchain.
+  * **Smart contract** is the script that is executed by the blockchain network.
+  * **Solidity** is the coding language used to write smart contracts on the Ethereum blockchain.
+  * **Node** is one computer in a network.
 
 ## FAQ
 1. *Do I have to install or download something? I do not trust these blockchain folks their hacker ways...* 
