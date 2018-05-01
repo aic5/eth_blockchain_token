@@ -1,4 +1,4 @@
-# Creating a Token Using Smart Contracts on the Ethereum Blockchain
+# Blockchain: Creating a Token Using Smart Contracts
 
 ## Intro
 This repository has everything you need to create a publicly traded token on a blockchain network. No coding experience necessary. We will be using the Ethereum blockchain and resorces that exist on the cloud.
