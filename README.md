@@ -12,11 +12,11 @@ Here is some basic terminology:
 ## FAQ
 1. *Do I have to install or download something? I do not trust these blockchain folks their hacker ways...* 
 
-No, you do not need to download or install anything. Even coding is optional (although it does help). If you have the ability to copy and paste and a functioning browser you are good to go. Think of this as baking a cake for the first time.
+   No, you do not need to download or install anything. Even coding is optional (although it does help). If you have the ability to copy and paste and a functioning browser you are good to go. Think of this as baking a cake for the first time.
 
 2. *Do I need cryptocurrency to make my token work? How expensive this is?*
 
-**You do not need cryptocurrency to create a token**. We will be doing this on the test Ethereum network (known as Ropstein network) using fake Ether. However, you do need Ether if you would like to do the same in the main Etherereum network.  
+   **You do not need cryptocurrency to create a token**. We will be doing this on the test Ethereum network (known as Ropstein network) using fake Ether. However, you do need Ether if you would like to do the same in the main Etherereum network.  
 
 
 
