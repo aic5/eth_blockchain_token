@@ -13,11 +13,15 @@ Here is some basic terminology:
 ## Roadmap
 Roadmap to creating a publicly traded token with little or no coding experience:
 
-### 1. Install MetaMask extension in your browser (https://metamask.io/). Create a local wallet in MetaMask. 
+### 1. Install MetaMask extension in your browser 
 
-1.1. Change the blockchain MetaMask is using to the Ropstein network. This way we will not have to pay for transactions with real Ether. 
+    1.1. Go to https://metamask.io/ to get the extension. 
+
+    1.2. Create a local wallet in MetaMask.
+
+    1.3. Change the blockchain MetaMask is using to the Ropstein network. This way we will not have to pay for transactions with real Ether. 
     
-### 2. Get fake Ether for testing
+### 2. Get fake Ether for testing and development
 
 You can get fake Ether in different ways. The simplest is to by going to an Ether faucet (http://faucet.ropsten.be:3001/). Another alternatives are to contact other developers or setup your own miners. 
 
@@ -25,9 +29,11 @@ For our needs getting 2 fake Ether from a faucet should be more than enough.
 
 ### 3. Copy the smart contract that will create the token 
 
-3.1. Go to (...)
+    3.1. Go to (...)
 
-### 4. Compile the smart contract code using a online Solidity compiler at https://remix.ethereum.org/
+### 4. Compile the smart contract using a online tool 
+
+4.1. Go to https://remix.ethereum.org/
 
 4.1 Paste the smart contract code in the editor section of the website.
   
