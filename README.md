@@ -23,9 +23,9 @@ Here are a few terms used in the roadmap:
 
 2. **Get fake Ether for testing and development**
 
-You can get fake Ether in different ways. The simplest is to by going to an Ether faucet (http://faucet.ropsten.be:3001/). You can also contact other developers or setup your own miners to get fake Ether. 
+    2.1. You can get fake Ether in different ways. The simplest is to by going to an Ether faucet (http://faucet.ropsten.be:3001/). You can also contact other developers or setup your own miners to get fake Ether. 
 
-The rest of the process can be completed with less than 2 fake Ether.
+    2.2. Get 2 Ropstein Ether from a faucet or other source. You will probably need less than 1.
 
 <br>
 
@@ -69,7 +69,7 @@ The rest of the process can be completed with less than 2 fake Ether.
 
 <br>
 
-7. **Sending and receiving my new token **
+7. **Sending and receiving my new token**
 
     7.1. MetaMask is great, but it does not have an interface that allows for sending tokens directly. You can transfer tokens by using other sites, such as https://www.myetherwallet.com/.
     
