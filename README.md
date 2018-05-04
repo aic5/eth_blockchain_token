@@ -1,7 +1,7 @@
 # Blockchain: Creating a Token Using Smart Contracts
 
 ## Intro
-This repository has everything you need to create a publicly traded token on a blockchain network. No coding experience necessary. We will be using the Ethereum blockchain and resorces that exist on the cloud.
+This repository has everything you need to create a publicly traded token on the Ethereum blockchain. No coding experience necessary. 
 
 Here is some basic terminology:
   * **Ether** is the name of the cryptocurrency used in the Ethereum blockchain.
@@ -11,7 +11,6 @@ Here is some basic terminology:
   * **Node** is one computer in a network.
 
 ## Roadmap
-Roadmap to creating a publicly traded token with little or no coding experience:
 
 ### 1. Install MetaMask extension in your browser 
 
@@ -23,13 +22,13 @@ Roadmap to creating a publicly traded token with little or no coding experience:
     
 ### 2. Get fake Ether for testing and development
 
-You can get fake Ether in different ways. The simplest is to by going to an Ether faucet (http://faucet.ropsten.be:3001/). Another alternatives are to contact other developers or setup your own miners. 
+You can get fake Ether in different ways. The simplest is to by going to an Ether faucet (http://faucet.ropsten.be:3001/). You can also contact other developers or setup your own miners to get fake Ether. 
 
-For our needs getting 2 fake Ether from a faucet should be more than enough.
+The rest of the process can be completed with less than 2 fake Ether.
 
 ### 3. Copy the smart contract that will create the token 
 
-    3.1. Go to (...)
+3.1. Download the smart contract from this repository
 
 ### 4. Compile the smart contract using a online tool 
 
@@ -53,7 +52,9 @@ For our needs getting 2 fake Ether from a faucet should be more than enough.
 
 ### 6. Checking the contract in the Ethereum network
 
+6.1. In MetaMask, click on the transaction that created the token
 
+---
 
 ## FAQ
 1. *Do I have to install or download a compiler to create a token? I do not trust these blockchain folks with their strange ways...* 
