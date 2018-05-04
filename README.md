@@ -34,5 +34,14 @@ Here is some basic terminology:
 ## Roadmap
 Roadmap to creating a publicly traded token with little or no coding experience:
 1. Take a deep breath...
-2. 
+2. Install MetaMask extension in your browser. Create a local wallet in MetaMask.
+3. Copy the smart contract code that will create the token (...) 
+4. Compile the code using a online Solidity compiler https://remix.ethereum.org/
+   4.1. Paste the smart contract code in the editor section of the website
+   4.2. Click in "Settings" and choose the compiler version ("0.4.16+commit.d7661dd9")
+   4.3. Click in "Compile" and check if there are any errors. Green means you are ready to go.
+   4.4.
+3. Edit the number of tokens, name and code for the token.
+4. Compile the code at ()
+5. 
 
