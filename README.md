@@ -1,20 +1,20 @@
-# Blockchain: Creating a Token Using Smart Contracts
+# Creating a Token Using Smart Contracts
 
 ## Intro
 This repository has everything you need to create a publicly traded token on the Ethereum blockchain. No coding experience necessary. 
 
-Here is some basic terminology:
+Here are a few terms used in the roadmap:
   * **Ether** is the name of the cryptocurrency used in the Ethereum blockchain.
   * **Faucet** a website that distributes cryptocurrency (usually fake crypto) for development.
   * **Smart contract** is the script that is executed by the blockchain network.
   * **Solidity** is the coding language used to write smart contracts on the Ethereum blockchain.
   * **Node** is one computer in a network.
 
-## Roadmap
+## How to create the token?
 
 1. **Install MetaMask extension in your browser**
 
-    1.1. Go to https://metamask.io/ to get the extension. 
+    1.1. Go to https://metamask.io/ to get the extension. This will create a Ethereum wallet and allow your computer to connect to Ethereum networks.
     
     1.2. Create a local wallet in MetaMask.
     
@@ -58,8 +58,6 @@ The rest of the process can be completed with less than 2 fake Ether.
 6. **Checking the contract in the Ethereum network**
 
     6.1. In MetaMask, click on the transaction that created the token. That's it.
-<br>
-
 ---
 
 ## FAQ
