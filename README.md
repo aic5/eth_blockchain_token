@@ -19,19 +19,19 @@ Here is some basic terminology:
     1.2. Create a local wallet in MetaMask.
     
     1.3. Change the blockchain MetaMask is using to the Ropstein network. This way we will not have to pay for transactions with real Ether. 
-    
-    
+<br>   
+
 2. **Get fake Ether for testing and development**
 
 You can get fake Ether in different ways. The simplest is to by going to an Ether faucet (http://faucet.ropsten.be:3001/). You can also contact other developers or setup your own miners to get fake Ether. 
 
 The rest of the process can be completed with less than 2 fake Ether.
-
+<br>
 
 3. **Copy the smart contract that will create the token** 
 
     3.1. Download the smart contract from this repository
-
+<br>
 
 4. **Compile the smart contract using a online tool**
 
@@ -44,7 +44,7 @@ The rest of the process can be completed with less than 2 fake Ether.
     4.3. Click the *"Compile"* panel and check if there are any errors. Green means you are ready to go.
   
     4.4. Click the *"Run"* panel. Enter the number of tokens, name of the token and code in the box below "TokenERC20", such as: 10000,"My Token","MTK".  
-
+<br>
 
 5. **Send the smart contract to the Ethereum blockchain**
 
@@ -53,11 +53,12 @@ The rest of the process can be completed with less than 2 fake Ether.
     5.2. Click the *"Create"* button to send the smart contract to the blockchain. 
     
     5.3. A popup window from MetaMask will appear confirming that you want to send the token to the blockchain. This is when you pay for the contract creation. Click the *"Submit"* button.
-
+<br>
 
 6. **Checking the contract in the Ethereum network**
 
     6.1. In MetaMask, click on the transaction that created the token. That's it.
+<br>
 
 ---
 
