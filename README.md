@@ -26,6 +26,7 @@ Here are a few terms used in the roadmap:
 You can get fake Ether in different ways. The simplest is to by going to an Ether faucet (http://faucet.ropsten.be:3001/). You can also contact other developers or setup your own miners to get fake Ether. 
 
 The rest of the process can be completed with less than 2 fake Ether.
+
 <br>
 
 3. **Copy the smart contract that will create the token** 
