@@ -31,20 +31,20 @@ The rest of the process can be completed with less than 2 fake Ether.
 
 3. **Copy the smart contract that will create the token** 
 
-    3.1. Download the smart contract from this repository
+    3.1. Download or copy the smart contract from this repository (https://github.com/aic5/blockchain_token/blob/master/token_demo.sol)
 <br>
 
 4. **Compile the smart contract using a online tool**
 
     4.1. Go to https://remix.ethereum.org/
 
-    4.1 Paste the smart contract code in the editor section of the website.
+    4.2. Paste the smart contract code in the editor section of the website.
   
-    4.2. Click the *"Settings"* panel and choose the compiler version (*"0.4.16+commit.d7661dd9"*).
+    4.3. Click the *"Settings"* panel and choose the compiler version (*"0.4.16+commit.d7661dd9"*).
   
-    4.3. Click the *"Compile"* panel and check if there are any errors. Green means you are ready to go.
+    4.4. Click the *"Compile"* panel and check if there are any errors. Green means you are ready to go.
   
-    4.4. Click the *"Run"* panel. Enter the number of tokens, name of the token and code in the box below "TokenERC20", such as: 10000,"My Token","MTK".  
+    4.5. Click the *"Run"* panel. Enter the number of tokens, name of the token and code in the box below "TokenERC20", such as: 10000,"My Token","MTK".  
 <br>
 
 5. **Send the smart contract to the Ethereum blockchain**
