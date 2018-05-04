@@ -12,47 +12,52 @@ Here is some basic terminology:
 
 ## Roadmap
 
-### 1. Install MetaMask extension in your browser 
+1. **Install MetaMask extension in your browser**
 
     1.1. Go to https://metamask.io/ to get the extension. 
-
+    
     1.2. Create a local wallet in MetaMask.
-
+    
     1.3. Change the blockchain MetaMask is using to the Ropstein network. This way we will not have to pay for transactions with real Ether. 
     
-### 2. Get fake Ether for testing and development
+    
+2. **Get fake Ether for testing and development**
 
 You can get fake Ether in different ways. The simplest is to by going to an Ether faucet (http://faucet.ropsten.be:3001/). You can also contact other developers or setup your own miners to get fake Ether. 
 
 The rest of the process can be completed with less than 2 fake Ether.
 
-### 3. Copy the smart contract that will create the token 
 
-3.1. Download the smart contract from this repository
+3. **Copy the smart contract that will create the token** 
 
-### 4. Compile the smart contract using a online tool 
+    3.1. Download the smart contract from this repository
 
-4.1. Go to https://remix.ethereum.org/
 
-4.1 Paste the smart contract code in the editor section of the website.
+4. **Compile the smart contract using a online tool**
+
+    4.1. Go to https://remix.ethereum.org/
+
+    4.1 Paste the smart contract code in the editor section of the website.
   
-4.2. Click the *"Settings"* panel and choose the compiler version (*"0.4.16+commit.d7661dd9"*).
+    4.2. Click the *"Settings"* panel and choose the compiler version (*"0.4.16+commit.d7661dd9"*).
   
-4.3. Click the *"Compile"* panel and check if there are any errors. Green means you are ready to go.
+    4.3. Click the *"Compile"* panel and check if there are any errors. Green means you are ready to go.
   
-4.4. Click the *"Run"* panel. Enter the number of tokens, name of the token and code in the box below "TokenERC20", such as: 10000,"My Token","MTK".  
+    4.4. Click the *"Run"* panel. Enter the number of tokens, name of the token and code in the box below "TokenERC20", such as: 10000,"My Token","MTK".  
 
-### 5. Send the smart contract to the Ethereum blockchain. 
 
-5.1. In the *"Run"* panel, look at the Environment combobox and select *"Injected Web"*.
+5. **Send the smart contract to the Ethereum blockchain**
+
+    5.1. In the *"Run"* panel, look at the Environment combobox and select *"Injected Web"*.
     
-5.2. Click the *"Create"* button to send the smart contract to the blockchain. 
+    5.2. Click the *"Create"* button to send the smart contract to the blockchain. 
     
-5.3. A popup window from MetaMask will appear confirming that you want to send the token to the blockchain. This is when you pay for the contract creation. Click the *"Submit"* button.
+    5.3. A popup window from MetaMask will appear confirming that you want to send the token to the blockchain. This is when you pay for the contract creation. Click the *"Submit"* button.
 
-### 6. Checking the contract in the Ethereum network
 
-6.1. In MetaMask, click on the transaction that created the token
+6. **Checking the contract in the Ethereum network**
+
+    6.1. In MetaMask, click on the transaction that created the token. That's it.
 
 ---
 
