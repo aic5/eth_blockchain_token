@@ -31,7 +31,8 @@ The rest of the process can be completed with less than 2 fake Ether.
 
 3. **Copy the smart contract that will create the token** 
 
-    3.1. Download or copy the smart contract from this repository (https://github.com/aic5/blockchain_token/blob/master/token_demo.sol)
+    3.1. Download or copy the smart contract from this repository: https://github.com/aic5/blockchain_token/blob/master/token_demo.sol. This code creates a simple utility token for trading. 
+    
 <br>
 
 4. **Compile the smart contract using a online tool**
@@ -56,9 +57,31 @@ The rest of the process can be completed with less than 2 fake Ether.
     5.3. A popup window from MetaMask will appear confirming that you want to send the token to the blockchain. This is when you pay for the contract creation. Click the *"Submit"* button.
 <br>
 
-6. **Checking the contract in the Ethereum network**
+6. **Checking the token in the Ethereum network and MetaMask**
 
-    6.1. In MetaMask, click on the transaction that created the token. That's it.
+    6.1. In MetaMask, click on the transaction that created the token (check the *"Sent"* panel). This will open the Ethereum block explorer with the information on the transaction.
+    
+    6.2. Wait a few minutes for the transaction to process... That's it. You have just created a token in the Ethereum network!
+
+    6.2. To add your new token to your MetaMask wallet, click on the contract link. Copy the contract address (it will be a long Hexadecimal number, such as 0xA72....). That is the place in the blockchain where your smart contract exists.
+
+    6.4. Go to MetaMask. Click in *"Tokens"*, *"Add Token"*. Enter the address for your contract. Click *"Add"*. Your token should appear on your wallet. Your token should now be tracked by your MetaMask wallet.
+
+<br>
+
+7. **Sending and receiving my new token **
+
+    7.1. MetaMask is great, but it does not have an interface that allows for sending tokens directly. You can transfer tokens by using other sites, such as https://www.myetherwallet.com/.
+    
+    7.2. Go to https://www.myetherwallet.com/
+    
+    7.3. Allow MyEtherWallet to connect to your MetaMask wallet (select *"MetaMask / Mist"*). Click in *"Send Ether & Tokens"*.
+    
+    7.4. In the bottom right corner, click in *"Add Custom Token"*. Enter your smart contract address, symbol and decimals (18). Click *"Launch"*.
+    
+    7.5. Send your tokens using the *"Send Ether & Tokens"* panel. Rememeber to click the type of token you want to send by clicking in *"Amount to Send"*.
+    
+
 ---
 
 ## FAQ
