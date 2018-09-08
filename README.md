@@ -16,7 +16,7 @@ Here are a few terms used in the roadmap:
 
     1.1. Go to https://metamask.io/ to get the extension. This will create a Ethereum wallet and allow your computer to connect to Ethereum networks.
     
-    1.2. Create a local wallet in MetaMask.
+    1.2. Create a local wallet in MetaMask. `Do not keep your metamask words on your hard drive!`
     
     1.3. Change the blockchain MetaMask is using to the Ropstein network. This way we will not have to pay for transactions with real Ether. 
 <br>   
